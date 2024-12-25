@@ -1,0 +1,148 @@
+.page2
+{
+    /* background-color: aqua; */
+    height: 70%;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    /* background-repeat: none; */
+}
+.card1
+{
+    width: 20%;
+    height: 100%;
+    padding-top: 50px;
+    /* background-color: aquamarine; */
+}
+.img-con
+{
+    width: 100%;
+    height: 250px;
+    background-repeat: none;
+    background-size: cover;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16BdFiWyHa2Wu35A2OjqYVMDniHOMj6FuYQ&s);
+    background-position: center;
+    background-color: blue;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.card2
+{
+    width: 60%;
+    height: 100%;
+    /* background-color: beige; */
+}
+.card3
+{
+    width: 20%;
+    height: 100%;
+    /* background-color: rgb(75, 75, 31); */
+}
+.img-con3
+{
+    width: 100%;
+    height: 250px;
+    margin-top: 200px;
+    background-repeat: none;
+    background-size: cover;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTizfPTTKCw72b9OWUDzuT-ktr3sRPsrSTNVg&s);
+    background-position: center;
+    /* background-color: blue; */
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+.card2
+{
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+text-t
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.card2 h5
+{
+    font-size: 30px;
+}
+.pera
+{
+    
+    padding: 0 58px ;
+    color: black;
+}
+.paragraph
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+   
+}
+.btn2
+{
+    padding:10px 20px ;
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.page3
+{
+    width: 100%;
+    height: 80%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container3
+{
+    width: 80%;
+    height: 80%;
+    background-color: blanchedalmond;
+    border-radius: 30px;
+    background-image: url(Types\ of\ Luxury\ Dark\ Kitchen\ Designs\ Completed\ With\ Modern\ and\ Stylish\ Decorating\ Ideas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+   
+}
+.texttt
+{
+    height: 50%;
+    width:60%;
+    /* background-color: blue; */
+    gap: 10px;
+    
+}
+.texttt h6{
+    font-size: 44px;
+    font-weight: 300;
+
+}
+.texttt p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    fontw
+}
+.texttt button
+{
+    background-color: white;
+    padding: 10px;
+
+    border-radius: 5px;
+}
+
